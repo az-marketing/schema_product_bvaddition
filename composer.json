@@ -1,0 +1,8 @@
+{
+    "name": "az-marketing/schema_product_bvaddition",
+    "description": "Adds @id field to schema.org product",
+    "type": "drupal-module",
+    "require": {
+        "php": ">=7.2"
+    }
+}  
