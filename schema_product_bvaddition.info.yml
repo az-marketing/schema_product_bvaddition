@@ -1,0 +1,9 @@
+name: Schema.org Bazaarvoice Product
+type: module
+description: 'Adds @id field to schema.org product'
+core_version_requirement: ^9 || ^10
+php: 7.2.0
+package: Custom
+dependencies:
+  - schema_metatag:schema_product
+
